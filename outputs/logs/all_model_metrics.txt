@@ -1,0 +1,6 @@
+model        IoU Precision Recall   F1 
+unet         0.81      0.85   0.89 0.87 
+resunet      0.83      0.86   0.90 0.88 
+attnunet     0.85      0.87   0.91 0.89 
+attnresunet  0.86      0.88   0.93 0.90 
+asdms_unet   0.87      0.89   0.93 0.91 
