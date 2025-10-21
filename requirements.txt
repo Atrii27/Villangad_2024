@@ -1,0 +1,8 @@
+Python 3.11+
+tensorflow==2.16.1
+numpy
+matplotlib
+seaborn
+scikit-learn
+rasterio
+pandas
