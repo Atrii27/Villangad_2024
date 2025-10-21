@@ -1,0 +1,6 @@
+Final IoU Comparison on Test Set:
+unet                 IoU=0.5153  Acc=0.4457
+resunet              IoU=0.6324  Acc=0.5508
+attnunet             IoU=0.8469  Acc=0.5931
+attnresunet          IoU=0.9091  Acc=0.9574
+asdms                IoU=0.9123  Acc=0.9602
